@@ -1,5 +1,7 @@
-Simple lists
+# Simple lists
 ## ng-board widget
+
+A simple list widget.
 
 ### Installation
 
