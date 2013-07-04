@@ -1,0 +1,14 @@
+{
+  "name": "ng-board-list",
+  "version": "0.0.0",
+  "author": "Daniel Young <young.daniel88@gmail.com>",
+  "main": "widget.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
